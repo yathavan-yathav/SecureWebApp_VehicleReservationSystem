@@ -11,7 +11,6 @@
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## About The Project
 
