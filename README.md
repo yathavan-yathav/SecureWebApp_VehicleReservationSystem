@@ -52,12 +52,5 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin featurebranchname`)
 5. Open a Pull Request
 
-## Contact
-
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/santhossunthar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/santhossunthar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:santhoshsunthar@gmail.com?subject=Hello%20Santhos,%20From%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
 
 Project Link: [https://github.com/yathavan-yathav/SecureWebApp_VehicleReservationSystem.git](https://github.com/yathavan-yathav/SecureWebApp_VehicleReservationSystem)
